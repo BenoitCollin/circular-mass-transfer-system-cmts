@@ -2,7 +2,7 @@
 
 * 🌍 **Digital Library (Internet Archive):**
   * **French Original (Cahier Technique):** https://archive.org/details/defi-cine-matique-2026-benoit-collin.pdf
-  * **English Version (Global Kinematic Challenge 2026):** https://archive.org/details/global-kinematc-2026-benoit-collin
+  * **English Version (Global Kinematic Challenge 2026):** https://archive.org/details/global-kinematic-challenge-2026-benoit-collinpdf
   * **Versión en Español (Desafío Cinemático Mundial 2026):** https://archive.org/details/desafio-cinematico-mundial-2026-benoit-collin.pdf
 
 * 🛠️ **Forge de Développement (GitHub):**
